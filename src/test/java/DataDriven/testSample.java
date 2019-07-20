@@ -19,6 +19,10 @@ public class testSample {
 		System.out.println(data.get(2));
 		System.out.println(data.get(3));
 		System.out.println(data.get(4));
+		System.out.println(data.get(1));
+		System.out.println(data.get(2));
+		System.out.println(data.get(3));
+		System.out.println(data.get(4));
 		
 	}
 
